@@ -39,7 +39,7 @@ header {
 
 .product-img-box1 {
   width: 180px;
-  height: 200px, fit-content;
+  height: 200px;
   margin-bottom: 1.5rem;
   display: flex;
   align-items: center;
@@ -50,9 +50,9 @@ header {
   transition: box-shadow 0.3s;
 }
 
-.product-img-box img1 {
+.product-img-box1 img {
   width: 100px;
-  height: 200px, fit-content;
+  height: 200px;
   object-fit: cover;
   transition: transform 0.4s cubic-bezier(.4,2,.6,.8);
 }

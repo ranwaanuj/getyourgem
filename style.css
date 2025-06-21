@@ -52,7 +52,7 @@ header {
 
 .product-img-box1 img {
   width: 100px;
-  height: 200px;
+  height: 100px;
   object-fit: cover;
   transition: transform 0.4s cubic-bezier(.4,2,.6,.8);
 }
